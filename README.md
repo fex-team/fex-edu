@@ -16,7 +16,7 @@ FEX 学院
 
 ## 前端工具
 
-- [ ] FIS
+- [ ] [FIS](http://fis.baidu.com/)
 
 ## 网络相关
 
@@ -24,16 +24,16 @@ FEX 学院
 
 - [ ] [HTTP 1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
 - [ ] [HTTP 2.0](http://http2.github.io/)
-- [ ] TLS
-- [ ] TCP
-- [ ] QUIC
-- [ ] IP 协议
+- [ ] [TLS](http://en.wikipedia.org/wiki/Transport_Layer_Security)
+- [ ] [TCP](http://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+- [ ] [QUIC](http://en.wikipedia.org/wiki/QUIC)
+- [ ] [IP 协议](http://tools.ietf.org/html/rfc791)
 - [ ] 3G
 - [ ] LTE
 
 网络工具
 
-- [ ] Wireshark，强大的网络分析工具，可以查看 TCP 请求的细节
+- [ ] [Wireshark](http://www.wireshark.org/)，强大的网络分析工具，可以查看 TCP 请求的细节
 
 推荐书籍
 
@@ -62,11 +62,12 @@ FEX 学院
 ## Web Components
 
 - [ ] [Polymer](http://www.polymer-project.org/)
+- [ ] [X-Tag](http://x-tags.org/)
 
 ## JavaScript/DOM
 
 - [ ] [TypeScript](http://www.typescriptlang.org/)
-- [ ] [Secrets of the JavaScript Ninja](http://book.douban.com/subject/3176860/)
+- [ ] 《[Secrets of the JavaScript Ninja](http://book.douban.com/subject/3176860/)》
 
 ## 编码及转义
 
@@ -84,6 +85,8 @@ FEX 学院
 - [ ] 《[构建高性能Web站点(修订版)](http://book.douban.com/subject/10812787/)》
 
 ## 数据可视化
+
+- [ ] [EChart](http://echarts.baidu.com/)
 
 ## 浏览器
 
