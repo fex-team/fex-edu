@@ -51,8 +51,8 @@ FEX 学院
 ## CSS 及 UI
 
 - [ ] [Scss](http://sass-lang.com/)
-    - [ ] [Compass](http://compass-style.org/)
-    - [ ] [Bourbon](http://bourbon.io/)
+- [ ] [Compass](http://compass-style.org/)
+- [ ] [Bourbon](http://bourbon.io/)
 - [ ] [Bootswatch](http://bootswatch.com/)
 - [ ] [Semantic UI](http://semantic-ui.com/)
 - [ ] [Chocolatechip UI](http://chocolatechip-ui.com/)
