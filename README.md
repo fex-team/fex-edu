@@ -92,7 +92,7 @@ FEX 学院
 ## 个人成长
 
 - [ ] 《[远大前程](http://book.douban.com/subject/7155000/)》
-- [ ] 《[卓有成效的管理者](http://book.douban.com/subject/1322025/)》，这本书不是只有管理职位才需要看的
+- [ ] 《[卓有成效的管理者](http://book.douban.com/subject/1322025/)》
 - [ ] 《[成为技术领导者 : 解决问题的有机方法](http://book.douban.com/subject/1132623/)》
 - [ ] 《[你就是极客](http://book.douban.com/subject/7055331/)》
 - [ ] 《[Apprenticeship Patterns](http://book.douban.com/subject/3572917/)》《[软件开发者路线图](http://book.douban.com/subject/4924164/)》
