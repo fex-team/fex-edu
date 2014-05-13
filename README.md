@@ -83,6 +83,8 @@ FEX 学院
 ## 性能优化
 
 - [ ] 《[构建高性能Web站点(修订版)](http://book.douban.com/subject/10812787/)》
+- [ ] [Google - Web Fundamentals : A handbook for best practices](https://developers.google.com/web/fundamentals/)
+- [ ] [Make the Web Faster — Google Developers](https://developers.google.com/speed/)
 
 ## 数据可视化
 
