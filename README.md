@@ -22,14 +22,14 @@ FEX 学院
 
 协议
 
-- [ ] [HTTP 1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
-- [ ] [HTTP 2.0](http://http2.github.io/)
+- [ ] [HTTP 1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)、[HTTP 2.0](http://http2.github.io/)
 - [ ] [TLS](http://en.wikipedia.org/wiki/Transport_Layer_Security)
 - [ ] [TCP](http://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 - [ ] [QUIC](http://en.wikipedia.org/wiki/QUIC)
 - [ ] [IP 协议](http://tools.ietf.org/html/rfc791)
-- [ ] 3G
-- [ ] LTE
+- [ ] [3G](http://en.wikipedia.org/wiki/3G)
+- [ ] [LTE](http://en.wikipedia.org/wiki/LTE_(telecommunication))
+- [ ] [Web Socket](http://tools.ietf.org/html/rfc6455)
 
 网络工具
 
@@ -90,6 +90,11 @@ FEX 学院
 
 - [ ] [EChart](http://echarts.baidu.com/)
 
+## 响应式设计
+
+- [ ] [Gumby](http://gumbyframework.com/)
+- [ ] [Uikit](http://getuikit.com/)
+
 ## 浏览器
 
 - [ ] [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
@@ -134,4 +139,4 @@ FEX 学院
 ## 行业
 
 - [ ] 《[黑客与画家](http://book.douban.com/subject/6021440/)》
-
+- [ ] 《[浪潮之巅](http://book.douban.com/subject/6709783/)》
