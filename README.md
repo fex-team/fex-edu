@@ -52,7 +52,7 @@ FEX 学院
 
 ## CSS 及 UI
 
-- [ ] [Scss](http://sass-lang.com/)
+- [ ] [Sass](http://sass-lang.com/)
 - [ ] [Compass](http://compass-style.org/)
 - [ ] [Bourbon](http://bourbon.io/)
 - [ ] [Bootswatch](http://bootswatch.com/)
@@ -63,6 +63,11 @@ FEX 学院
 
 - [ ] [Polymer](http://www.polymer-project.org/)
 - [ ] [X-Tag](http://x-tags.org/)
+
+## 前端模板
+
+- [ ] [BaiduTemplate](https://github.com/BaiduFE/BaiduTemplate)
+- [ ] [EJS](https://github.com/visionmedia/ejs)
 
 ## JavaScript/DOM
 
