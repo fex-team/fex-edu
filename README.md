@@ -89,6 +89,9 @@ FEX 学院
 ## 数据可视化
 
 - [ ] [EChart](http://echarts.baidu.com/)
+- [ ] [D3.js](http://d3js.org/)
+- [ ] [kitycharts](https://github.com/fex-team/kitycharts)
+- [ ] [Highcharts](http://www.highcharts.com/)
 
 ## 响应式设计
 
@@ -99,7 +102,9 @@ FEX 学院
 
 - [ ] [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 
-## 人物传记
+## Node
+
+
 
 ## 个人成长
 
