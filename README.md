@@ -78,7 +78,6 @@ FEX 学院
 
 - [ ] [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
 - [ ] [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
-- [ ] [编码](http://book.douban.com/subject/4822685/)
 
 ## 安全相关
 
