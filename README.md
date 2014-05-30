@@ -45,6 +45,11 @@ FEX 学院
 - [ ] [Responsive Web Design](http://www.smashingmagazine.com/tag/responsive-design/)
 - [ ] 《[The Complete Manual of Typography](http://book.douban.com/subject/7070562/)》
 
+可以参考的设计网站
+
+- [Subtle Patterns](http://subtlepatterns.com/)
+- [Dribbble](https://dribbble.com/)
+
 ## 前端框架
 
 - [ ] [Angular](http://angularjs.org/)
