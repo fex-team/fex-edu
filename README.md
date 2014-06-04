@@ -49,6 +49,7 @@ FEX 学院
 
 - [Subtle Patterns](http://subtlepatterns.com/)
 - [Dribbble](https://dribbble.com/)
+- [Weebly](http://www.weebly.com/)，有很多网站模板
 
 ## 前端框架
 
