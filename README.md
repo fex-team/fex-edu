@@ -90,10 +90,15 @@ FEX 学院
 - [ ] 《[The Web Application Hacker's Handbook](http://book.douban.com/subject/6910515/)》《[黑客攻防技术宝典（第2版）](http://book.douban.com/subject/10793814/)》
 - [ ] 《[The Browser Hacker's Handbook](http://book.douban.com/subject/24550924/)》
 - [ ] 《[白帽子讲Web安全](http://book.douban.com/subject/10546925/)》
+- [ ] [终极XSS防护备忘录](http://www.fooying.com/chinese-translationthe-ultimate-xss-protection-cheatsheet-for-developers/)
 
 ## 性能优化
 
+- [ ] [Facebook : The Mature Optimization Handbook](http://carlos.bueno.org/optimization/)，相当专业
 - [ ] 《[构建高性能Web站点(修订版)](http://book.douban.com/subject/10812787/)》
+- [ ] 《[Web性能权威指南](http://book.douban.com/subject/25856314/)》
+- [ ] 《[高性能网站建设指南](http://book.douban.com/subject/3132277/)》
+- [ ] 《[高性能网站建设进阶指南](http://book.douban.com/subject/4719162/)》
 - [ ] [Google - Web Fundamentals : A handbook for best practices](https://developers.google.com/web/fundamentals/)
 - [ ] [Make the Web Faster — Google Developers](https://developers.google.com/speed/)
 
