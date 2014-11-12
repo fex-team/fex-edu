@@ -7,3 +7,4 @@
 - [Awesome WPO](https://github.com/davidsonfellipe/awesome-wpo)  
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)  
 - [MaterialDesignCenter](https://github.com/lightSky/MaterialDesignCenter)  
+- [Essential Math for Games Programmers](http://www.essentialmath.com/tutorial.htm)  
