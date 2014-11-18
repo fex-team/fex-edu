@@ -18,3 +18,5 @@
 
 - [OSChina 技术周刊](http://www.oschina.net/search?scope=bbs&q=OSChina%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A)  
 - [码农周刊](http://weekly.manong.io/)  
+- [码农周刊汇总版](https://github.com/nemoTyrant/manong)  
+- [Docker 周报](http://docker.imcrm.me/index)  
