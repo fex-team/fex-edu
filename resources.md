@@ -20,3 +20,18 @@
 - [码农周刊](http://weekly.manong.io/)  
 - [码农周刊汇总版](https://github.com/nemoTyrant/manong)  
 - [Docker 周报](http://docker.imcrm.me/index)  
+
+## 计算机课程
+
+**Awesome Courses**  
+https://github.com/prakhar1989/awesome-courses/  
+List of awesome Computer Science courses scoured from university pages across the web. Table of Contents
+
+    Systems
+    Programming Languages / Compilers
+    Algorithms
+    CS Theory
+    Introduction to CS
+    Misc
+    Contributing
+
