@@ -10,6 +10,7 @@
 - [前端技能汇总 Frontend Knowledge Structure](https://github.com/JacksonTian/fks)  
 - [Awesome WPO](https://github.com/davidsonfellipe/awesome-wpo)  
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)  
+- [All about this](http://wayou.github.io/2015/01/18/all-this/)  
 - [MaterialDesignCenter](https://github.com/lightSky/MaterialDesignCenter)  
 - [Essential Math for Games Programmers](http://www.essentialmath.com/tutorial.htm)  
 - [Google - Guide for Technical Development](http://www.google.com/edu/tools-and-solutions/guide-for-technical-development/index.html)  
@@ -21,7 +22,11 @@
 - [码农周刊汇总版](https://github.com/nemoTyrant/manong)  
 - [Docker 周报](http://docker.imcrm.me/index)  
 
-## 计算机课程
+## 计算机基础
+
+**Open Data Structures**  
+http://opendatastructures.org/  
+Open Data Structures covers the implementation and analysis of data structures for sequences (lists), queues, priority queues, unordered dictionaries, ordered dictionaries, and graphs.  Data structures presented in the book include stacks, queues, deques, and lists implemented as arrays and linked-lists; space-efficient implementations of lists; skip lists; hash tables and hash codes; binary search trees including treaps, scapegoat trees, and red-black trees; integer searching structures including binary tries, x-fast tries, and y-fast tries; heaps, including implicit binary heaps and randomized meldable heaps; graphs, including adjacency matrix and ajacency list representations; and B-trees. The data structures in this book are all fast, practical, and have provably good running times. All data structures are rigorously analyzed and implemented in Java and C++. The Java implementations implement the corresponding interfaces in the Java Collections Framework. 
 
 **Awesome Courses**  
 https://github.com/prakhar1989/awesome-courses/  
