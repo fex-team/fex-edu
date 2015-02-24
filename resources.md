@@ -24,6 +24,10 @@
 
 ## 计算机基础
 
+**程序员必读书单**  
+http://lucida.me/blog/developer-reading-list/  
+本文把程序员所需掌握的关键知识总结为三大类19个关键概念，然后给出了掌握每个关键概念所需的入门书籍，必读书籍，以及延伸阅读。旨在成为最好最全面的程序员必读书单。  
+
 **Open Data Structures**  
 http://opendatastructures.org/  
 Open Data Structures covers the implementation and analysis of data structures for sequences (lists), queues, priority queues, unordered dictionaries, ordered dictionaries, and graphs. Data structures presented in the book include stacks, queues, deques, and lists implemented as arrays and linked-lists; space-efficient implementations of lists; skip lists; hash tables and hash codes; binary search trees including treaps, scapegoat trees, and red-black trees; integer searching structures including binary tries, x-fast tries, and y-fast tries; heaps, including implicit binary heaps and randomized meldable heaps; graphs, including adjacency matrix and ajacency list representations; and B-trees. The data structures in this book are all fast, practical, and have provably good running times. 
