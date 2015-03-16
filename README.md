@@ -121,7 +121,9 @@ FEX 学院
 
 ## Node
 
+## Linux 相关
 
+- [ ] [认识与学习 BASH](http://vbird.dic.ksu.edu.tw/linux_basic/0320bash.php)
 
 ## 个人成长
 
