@@ -143,7 +143,8 @@ FEX 学院
 ## 软件工程
 
 - [ ] 《[Joel谈优秀软件开发方法](http://book.douban.com/subject/2193777/)》
-
+- [ ] 《[代码大全](http://book.douban.com/subject/1477390/)》
+- 
 ## 计算机基础
 
 - [ ] 《[编码](http://book.douban.com/subject/20260928/)》
