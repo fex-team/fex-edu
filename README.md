@@ -14,6 +14,10 @@ FEX 学院
 - 没几个人喜欢的技术就不列了，比如 GWT
 - 图书名称要加书名号，有中文版也列在同一行，链接指向豆瓣
 
+## 代码编写和训练
+
+- [ ] [freeCodeCamp](http://freecodecamp.com/)，有很多训练题，可以在线编辑测试
+
 ## 前端工具
 
 - [ ] [FIS](http://fis.baidu.com/)
