@@ -58,7 +58,7 @@ FEX 学院
 ## 前端框架
 
 - [ ] [Angular](http://angularjs.org/)
-- [ ] [Anugular2](http://angular.io/)
+- [ ] [Angular2](http://angular.io/)
 - [ ] [React](http://facebook.github.io/react/)
 
 ## CSS 及 UI
