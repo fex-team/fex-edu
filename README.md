@@ -57,13 +57,15 @@ FEX 学院
 
 ## 前端框架
 
-- [ ] [Angular](http://angularjs.org/)
-- [ ] [Angular2](http://angular.io/)
+- [ ] [Angularjs](http://angularjs.org/)
+- [ ] [Angular](http://angular.io/)
 - [ ] [React](http://facebook.github.io/react/)
+- [ ] [Vue](https://vuejs.org/)
 
 ## CSS 及 UI
 
 - [ ] [Sass](http://sass-lang.com/)
+- [ ] [Less](http://lesscss.org/)
 - [ ] [Compass](http://compass-style.org/)
 - [ ] [Bourbon](http://bourbon.io/)
 - [ ] [Bootswatch](http://bootswatch.com/)
